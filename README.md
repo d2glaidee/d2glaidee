@@ -8,4 +8,3 @@ I value clean architecture, peak performance, and the perfect balance between ro
 
 ### 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![PaperMC](https://img.shields.io/badge/PaperMC-222222?style=flat-square&logo=papermc&logoColor=white) ![Spigot](https://img.shields.io/badge/Spigot-E09437?style=flat-square&logo=spigotmc&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
-![Claude].(https://img.shields.io/badge/Claude_Code-555?logo=claude)
