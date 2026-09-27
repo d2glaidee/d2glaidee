@@ -6,16 +6,15 @@ student. currently diving into python & java.
 
 ### main skills
 
-<p align="left">
+<a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,java,gradle,git" />
-</p>
+</a>
 
-### tools & ai
+### tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pycharm,idea,vscode" align="top" />
-  <img src="https://api.iconify.design/simple-icons:anthropic.svg?color=D97706" width="48" height="48" style="background:#242938; border-radius:10px; padding:8px;" align="top" alt="Claude" />
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=pycharm,idea,vscode" />
+</a>
 
 ---
 
