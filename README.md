@@ -6,18 +6,21 @@ student. currently diving into python & java.
 
 ### main skills
 
-<a href="https://skillicons.dev">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,gradle,git" />
-</a>
+</p>
 
 ### tools & ai
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pycharm,idea,vscode,claude" />
-</a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pycharm,idea,vscode" align="top" />
+  <img src="https://api.iconify.design/simple-icons:anthropic.svg?color=D97706" width="48" height="48" style="background:#242938; border-radius:10px; padding:8px;" align="top" alt="Claude" />
+</p>
 
 ---
 
 ### connect
 
-[![bio](https://img.shields.io/badge/bio_page-0D1117?style=for-the-badge&logo=githubpages&logoColor=white)](https://d2glaidee.github.io/bio)
+<a href="https://d2glaidee.github.io/bio">
+  <img src="https://img.shields.io/badge/🔗_my_bio-161b22?style=for-the-badge&logoColor=white" alt="bio" />
+</a>
