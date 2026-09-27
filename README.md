@@ -6,17 +6,26 @@ student. currently diving into python.
 
 ### stack
 
-![Python](https://img.shields.io/badge/python-111111?style=flat-square&logo=python&logoColor=white)
-![Java 25](https://img.shields.io/badge/java_25-111111?style=flat-square&logo=openjdk&logoColor=white)
-![Gradle](https://img.shields.io/badge/gradle-111111?style=flat-square&logo=gradle&logoColor=white)
-![Claude](https://img.shields.io/badge/claude-111111?style=flat-square&logo=anthropic&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-111111?style=flat-square&logo=pycharm&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/intellij_idea-111111?style=flat-square&logo=intellijidea&logoColor=white)
-![Git](https://img.shields.io/badge/git-111111?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/vscode-111111?style=flat-square&logo=visualstudiocode&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" height="28" alt="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" height="28" alt="Java" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="28" height="28" alt="Gradle" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:claude.svg?color=white" width="28" height="28" alt="Claude" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="28" height="28" alt="PyCharm" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="28" height="28" alt="IntelliJ IDEA" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" height="28" alt="Git" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28" height="28" alt="VS Code" />
+</p>
 
 ---
 
 ### links
 
-[bio](https://d2glaidee.github.io/bio)
+→ [bio](https://d2glaidee.github.io/bio)
