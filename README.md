@@ -1,64 +1,30 @@
-<div align="center">
+# d2glaidee
 
-# `d2glaidee`
+### Student & Developer
 
-> student • currently diving into python & java
+<!-- Окно терминала в стиле macOS -->
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A9B1D6&background=0D1117&vCenter=true&width=440&lines=%2Fd2glaidee+%24+cat+profile.json;%7B+%22status%22%3A+%22student%22%2C+%22focus%22%3A+%22python%22+%7D;%2Fd2glaidee+%24+ls+skills%2F;python%2F+java25%2F+gradle%2F+claude%2F" alt="Terminal" />
+</div>
 
 <br/>
 
-<a href="https://d2glaidee.github.io/bio">
-  <img src="https://img.shields.io/badge/visit-bio_page-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Bio" />
+### Main skills
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,java,gradle,git" />
 </a>
 
-<br/><br/>
+<br/>
 
-### 🛠 Tech Stack
+### Tools & AI
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=idea,pycharm,vscode,claude" />
+</a>
 
 <br/>
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" height="38" alt="Python" /><br/>
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38" height="38" alt="Java" /><br/>
-      <sub><b>Java 25</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="38" height="38" alt="Gradle" /><br/>
-      <sub><b>Gradle</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://api.iconify.design/simple-icons:claude.svg?color=D97706" width="38" height="38" alt="Claude" /><br/>
-      <sub><b>Claude</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="38" height="38" alt="PyCharm" /><br/>
-      <sub><b>PyCharm</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="38" height="38" alt="IntelliJ IDEA" /><br/>
-      <sub><b>IntelliJ</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" height="38" alt="Git" /><br/>
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38" height="38" alt="VS Code" /><br/>
-      <sub><b>VS Code</b></sub>
-    </td>
-  </tr>
-</table>
+### Connect
 
-<br/>
-
----
-
-<sub>feel free to explore repos or check my bio link above</sub>
-
-</div>
+[![bio](https://img.shields.io/badge/bio_page-161b22?style=for-the-badge&logo=githubpages&logoColor=white)](https://d2glaidee.github.io/bio)
